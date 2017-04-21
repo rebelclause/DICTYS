@@ -8,7 +8,7 @@ DICTYS originates out of HAPI and may be forked into HAPI.
 
 This GIT repository exists to define DICTYS and contain its collateral.
 
-The project is inspired by the 10,000 year clock of TheLongNow to maintain and support longevity of the human species. It's inspired by Space Agencies and private companies around the world working toward multi-planet multi-system colonization. And it's inspired by applied intelligence, the foresight humans have always required to improve individual and collective food, water, and human security, and overall quality of life. 
+The DICTYS project is inspired by the 10,000 year clock project of The Long Now Foundation, as interpreted here; to maintain and support longevity of the human species. It is inspired by Space Agencies, private companies, entrepreneurs and individuals around the world working toward multi-planet multi-system colonization. And it's inspired by applied intelligence, the foresight humans have always required to improve individual and collective food, water, and human security, and overall quality of life. 
 
 DICTYS maintains that adaptation is a human strength forged in the crucible of change. Crisis to human beings often creeps rather than leaps. That includes changes to climate, which, over the course of a single human lifetime, are very difficult to detect on geologic cycles, since the record of change is so indirect.
 
@@ -22,7 +22,7 @@ Extending that, for human being, you and me, to be ready to become and thrive as
 
 
 ***
-Links to Explore
+Link Interlude
 
 The student-built website that keeps government climate data safe
 http://www.yesmagazine.org/planet/the-student-built-website-that-keeps-government-climate-data-safe-20170221
@@ -30,8 +30,12 @@ http://www.yesmagazine.org/planet/the-student-built-website-that-keeps-governmen
 Arctic researcher: Donald Trump deleting my citations
 https://www.theguardian.com/commentisfree/2017/mar/28/arctic-researcher-donald-trump-deleting-my-citations
 
+The 10,000 Year Clock Project was conceived by Danny Hillis as a monument to long-term thinking.
+http://longnow.org/clock/
+
 InSight Mission *
 https://insight.jpl.nasa.gov/home.cfm
+
 
 ***
 
