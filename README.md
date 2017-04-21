@@ -18,7 +18,7 @@ You know deposition did occur, and that, perhaps, it was only detectable because
 
 Without foresight humans are susceptible to the creeping crisis, the undetectable change in stability and local influence of long term environmental conditions.
 
-Extending that, for human being, you and me, to be ready to become and thrive as a planet-hopping species none of use can afford to compromise our social natures by allowing the data we need to be impeded in its collection, sharing or dissemination. Ultimately, each of us is responsible for ourselves, but if we must house a portion that responsibility and institutionalize it, that's what we do to prevent any one of us from being placed at risk by agenda driven mushrooming. That will hold on this planet, and on on any other homo sapiens sapiens decides to go.
+Extending that, for human beings, you and me, to be ready to become and thrive as planet-hopping species none of us can afford to compromise our social natures by allowing the data we need to be impeded in its collection, sharing or dissemination. Ultimately, each of us is responsible for ourselves, but if we must house a portion of that responsibility by institutionalizing it so that it may live beyond an individual life span, then that's what we do to prevent any one of us from being placed at risk by agenda driven mushrooming. That will hold on this planet, and on on any other homo sapiens sapiens decides to go.
 
 
 ***
