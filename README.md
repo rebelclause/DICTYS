@@ -36,6 +36,8 @@ http://longnow.org/clock/
 InSight Mission *
 https://insight.jpl.nasa.gov/home.cfm
 
+HAPI
+https://github.com/mayaculpa/hapi/wiki
 
 ***
 
