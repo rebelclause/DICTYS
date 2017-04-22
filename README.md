@@ -65,7 +65,7 @@ Powered by solar and populated with HAPI open source programming, presently unde
 
 The first generation firmware will allow solar powered Smart Devices to gather data and use a wireless connection to report time coded temperature, and, optionally, humidity and pressure data from the local environment. Enclosures for devices can be manufactured by anyone, though we recommend for the program, until others are proven, housings designed and fabricated by Volunder Waycraft, a HAPI partner.
 
-Cost of entry into the program is estimated at roughly $111 for all equipment options and the first year of subscription, with an annual maintenance cost of $1 per month, or $12 per year in subsequent years.
+Cost of entry into the program is estimated at roughly $111 for all equipment options and the first year of subscription, with an annual maintenance cost of $2 per month, or $24 per year in subsequent years.
 
 
 *****
