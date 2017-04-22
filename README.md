@@ -70,3 +70,6 @@ Cost of entry into the program is estimated at roughly $111 for all equipment op
 * (in the main, from remote by orbiting satellites having different sensing capabilities, and from different agencies, though presently led by NASA)
 
 ** NASA's InSight mission augments remote orbital reconnaisance of the Red Planet and adds to the arsenal of ground based observation, but by NASA's own admission for a complete climate picture distributed sensing would be required.
+
+*****
+https://grafana.com/dist/b7f763b5b1af7160f63c2cfc3a44b779.png
